@@ -4,9 +4,9 @@
         <title>VPN Proxy Master Enterprise</title>
         <item>
             <title>3.0.0</title>
-            <pubDate>周日, 26 4月 2020 17:34:05 +0800</pubDate>
+            <pubDate>周日, 26 4月 2020 18:43:19 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gaoxiaowei/SparkTestDemo/blob/master/VPN%20Proxy%20Master%20Enterprise.zip" sparkle:version="23" sparkle:shortVersionString="3.0.0" length="12214701" type="application/octet-stream" sparkle:edSignature="bMm9GVADFE1fz1xtoPL/T4vPTf6sGYQatsHLdg9ljDULPHsHq90RxjQDa1iRuVhLLAFdCgCVs+Xf5dWoVFGEAg=="/>
+            <enclosure url="https://github.com/gaoxiaowei/SparkTestDemo/blob/master/VPN%20Proxy%20Master%20Enterprise.zip" sparkle:version="23" sparkle:shortVersionString="3.0.0" length="12214719" type="application/octet-stream" sparkle:edSignature="ZxM7XuWd62vr7fyxFb9lMEkpdGs7UXafrLwTcFmksr5a7HP3MAlu/WJOuoqMDnSK/8zzpLg/arc6GkU0E+a7Bg=="/>
         </item>
     </channel>
 </rss>
